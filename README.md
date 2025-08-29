@@ -71,6 +71,6 @@ This project is licensed under the MIT License.
 
 For questions or feedback:  
 itzaa143@gmail.com  
-LinkedIn: [ LinkedIn Profile Link](https://www.linkedin.com/in/adarsh-pratap-singh-52632630a/)
+LinkedIn: [ LinkedIn Profile Link](www.linkedin.com/in/ankush-prajapati-29b206345)
 
 This project was completed as part of the Data Science & Machine Learning internship at YBI Foundation.
